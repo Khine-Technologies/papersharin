@@ -10,7 +10,7 @@ export default function Home() {
         <meta name="description" content="Papersharin, an open source platform to share papers across the world for students." />
         <link rel="icon" href="/favicon.ico" />
 
-        <meta property='og:image' content='/Papersharin.png' />
+        <meta property='og:image' content='https://dev-papersharin.co/Papersharin.png' />
         <meta property='og:image:width' content='1200' />
         <meta property='og:image:height' content='600' />
         <meta property='og:image:alt' content='Papersharin logo with purple gradient background.' />
